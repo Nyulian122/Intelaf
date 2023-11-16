@@ -1,4 +1,3 @@
-# Intelaf
-|-------------------------------------|
-|https://nyulian122.github.io/Intelaf/|
-|-------------------------------------|
+#Intelaf
+https://nyulian122.github.io/Intelaf/
+
