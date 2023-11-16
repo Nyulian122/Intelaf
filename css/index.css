@@ -1,0 +1,98 @@
+.panel-control{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 1192ṕx;
+    height: 64px;
+    
+}  
+
+.nav-log{
+    display: flex;
+    align-items: center;
+}
+
+.nav-1{
+    width: 12px;
+    background-color: gray;
+}
+
+.panel-control img{
+    height: 45px;
+}
+
+.nav-1{
+    width: 100px;
+    background-color: #f7f7f7;
+    display: flex;
+    color: #808080;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-1 img{
+width: 24px;
+height: 24px;
+
+}
+
+.buscador{
+    height: 60px;
+    background-color: gray;
+}
+
+.panel-iconos{
+    width: 400px;
+    height: 60px;
+    background-color: gray;
+
+}
+
+/*Buscador*/
+
+.buscador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+
+}
+
+.buscador > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 15px;
+    background-color: #f7f7f7;
+    border: 1px solid black;
+    width: 372px;
+    height: 45px;
+    padding: 0 40px;
+
+}
+
+.buscador > div div{
+background-color: #808080;
+border-radius: 100%;
+width: 27.5%;
+height: 27.5%;
+ 
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.buscador > div div span{
+
+    font-size: 20px;
+}
+
+.buscador input{
+    width: 100%;
+    border: none;
+    background-color: #f7f7f7;
+    outline: none;
+}
